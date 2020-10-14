@@ -1,0 +1,8 @@
+
+
+
+-------Reset Email
+
+1. Reset password adalah mengubah password dengan password baru dikarenakan lupa password.
+
+2. Menggunakan PHP dan PHPMailer
